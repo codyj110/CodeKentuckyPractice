@@ -1,5 +1,5 @@
 #function input will write the string give and put the user response into variable name
-name = input("enter your name: ")
+name = input("enter your full name: ")
 #function input will write the string give and put the user response into variable age
 age = input("enter your age: ")
 x = KentuckyCode = input("are you enjoying the course so far? (enter yes/no) ")
